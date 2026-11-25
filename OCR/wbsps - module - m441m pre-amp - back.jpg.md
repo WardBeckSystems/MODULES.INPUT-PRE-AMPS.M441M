@@ -45,7 +45,7 @@ WBS
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M441M/PHOTOS/wbsps - module - m441m pre-amp - back.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/wbsps - module - m441m pre-amp - back.jpg",
  "sha256": "6d9b50a26d809cee619f95ac408f7c785d572f1a2f828b000c59b9d9bf814688",
  "kind": "module",
  "models": [

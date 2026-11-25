@@ -43,7 +43,7 @@ WBS
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M441M/PHOTOS/19xx - M441M - Buffalo New York.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/19xx - M441M - Buffalo New York.jpg",
  "sha256": "d2615fb3726b05b8ce91ca195840983eff4c01b596c569d0b778768fcc412a7a",
  "kind": "module",
  "models": [

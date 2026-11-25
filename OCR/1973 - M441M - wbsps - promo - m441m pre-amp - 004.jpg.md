@@ -34,7 +34,7 @@ M441M
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M441M/PHOTOS/1973 - M441M - wbsps - promo - m441m pre-amp - 004.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/1973 - M441M - wbsps - promo - m441m pre-amp - 004.jpg",
  "sha256": "113ef53671b5de29e98c9c16bfb7d0304667208eec75cc7c571f943babb8a3bd",
  "kind": "module",
  "models": [

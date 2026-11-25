@@ -53,7 +53,7 @@ Neverd
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M441M/PHOTOS/1973 - M441M - wbsps - module - m441m pre-amp - front.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/1973 - M441M - wbsps - module - m441m pre-amp - front.jpg",
  "sha256": "c62d357960bbd8e2dc3b8e7da21e759916c85bb39f716f9ed14c29c89a93d9dc",
  "kind": "module",
  "models": [

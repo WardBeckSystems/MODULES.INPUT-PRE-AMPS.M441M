@@ -27,7 +27,7 @@ Pri OFF 70st
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M441M/PHOTOS/1973 - M441M - wbsps - promo - m441m pre-amp - 003.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/1973 - M441M - wbsps - promo - m441m pre-amp - 003.jpg",
  "sha256": "1a767547175ef85b0125cd7a27edaad0f903be3792d7c59602d26e589da50c09",
  "kind": "module",
  "models": [

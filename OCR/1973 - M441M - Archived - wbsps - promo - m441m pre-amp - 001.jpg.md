@@ -59,7 +59,7 @@ Exceptionally low input noise; high peak output capability.
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M441M/PHOTOS/1973 - M441M - Archived - wbsps - promo - m441m pre-amp - 001.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/1973 - M441M - Archived - wbsps - promo - m441m pre-amp - 001.jpg",
  "sha256": "67bb3169dac8ad284bfe4573576f1033b844002ac4c2700e8aac0520ba3db8b2",
  "kind": "module",
  "models": [
