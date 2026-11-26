@@ -26,7 +26,7 @@ Wiki page: [M441M](../../../../PAGES/M441M.md)
 - **Words (OCR):** 19 in 17 lines: M441M · CHANNEL · AMPLIFIER · Designed and · Manufactured · by · Ward-Beck · Systems · Limited · 841 Progress · Avenue · Scarborough, Ontario
 - **Title block:** (115, 90)–(197, 116) mm: Ward-Beck · Systems · 841 Progress · Avenue
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p1 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p1%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p1 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p1%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p1 (traced).dxf`).
 
 ### Page 2
 
@@ -35,7 +35,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p1 (tra
 - **Outlines:** line 11 rings, 156 straight (230 mm) / 27 curved (42.4 mm); text 1,417 rings, 11,896 straight (12,269 mm) / 4,019 curved (5,977 mm)
 - **Words (OCR):** 158 in 86 lines: M441 · CHANNEL AMPLIFIER · Technical Data: · Preamplifier · Gain: · Microphone input; · 60dB to · 10dB +0.SdB selectable · via · sensitivity switch · Line · input;
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p2 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p2%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p2 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p2 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p2%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p2 (traced).dxf`).
 
 ### Page 3
 
@@ -44,7 +44,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p2 (tra
 - **Outlines:** line 11 rings, 29 straight (27.9 mm) / 15 curved (18.7 mm); text 632 rings, 5,446 straight (5,577 mm) / 1,818 curved (2,740 mm)
 - **Words (OCR):** 72 in 35 lines: Output Level: · Preamplifier -l0dBm nominal · +27dBm maximum · amplifier -lOdBm · Booster · nominal · +20dBm maximum · Load · Impedance · Preamplifier 600 ohms · balanced · Booster
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p3 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p3%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p3 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p3 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p3%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p3 (traced).dxf`).
 
 ### Page 4
 
@@ -54,7 +54,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p3 (tra
 - **Dots (junctions):** 3
 - **Words (OCR):** 263 in 140 lines: M44IM CHANNEL · AMPLIFIER · Circuit Descriptioni · M441M Channel · Amplifier provides the · following major functions · The · preamplification to · microphone source · selection of line · input · sensitivity and phase reversal
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p4 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p4%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p4 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p4 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p4%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p4 (traced).dxf`).
 
 ### Page 5
 
@@ -67,7 +67,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p4 (tra
 - **Words (OCR):** 374 in 185 lines: actual · preamplifier. R8 · and the · resistors on · deck C of Swl set · the · feedback around and · 21 · therefore · its gain_ R3 · with CRI · and CR2 are an
 - **Wiring (first pass):** 1 connected wire groups from 20 runs; labelled ends: 6 mm → This, circuit provides, excellent, pins
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p5 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p5%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p5 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p5 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p5%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p5 (traced).dxf`).
 
 ### Page 6
 
@@ -77,7 +77,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p5 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 164 in 90 lines: in · addition · makes selection of either Rev or · Rev · send buss _ · busses appear · pins 11 and · and 12 · and of · the module · These two · at
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p6 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p6%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p6 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p6 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p6%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p6 (traced).dxf`).
 
 ### Page 7
 
@@ -86,7 +86,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p6 (tra
 - **Outlines:** line 55 rings, 745 straight (952 mm) / 148 curved (208 mm); text 750 rings, 6,454 straight (6,826 mm) / 2,182 curved (3,230 mm)
 - **Words (OCR):** 141 in 98 lines: M441M CHANNEL AMPLIFIER · DC Voltage Chart: · The following DC voltages are · typical and · may vary +108_ · The · idle · current · should be between 48 ma · and 52 ma · with · supply
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p7 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p7%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p7 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p7 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p7%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p7 (traced).dxf`).
 
 ### Page 8
 
@@ -97,7 +97,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p7 (tra
 - **Closed boxes:** 8
 - **Words (OCR):** 25 in 21 lines: W'8S · IN'8 · "0-'1 · sv.c · JWIA · WEA · S~2C · --;t(J:==l · CB /82. · 1-/10 · IN' · IV~-
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p8 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p8%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p8 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p8 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p8%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p8 (traced).dxf`).
 
 ### Page 9
 
@@ -109,7 +109,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p8 (tra
 - **Dots (junctions):** 1
 - **Words (OCR):** 26 in 22 lines: PCIBZ-- · VI, · SWIC · Gr, · TI- RO · 14 · C:1 · wlAE · SW3 · \-tNl<. · CUE SWITCH · oZ.
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p9 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p9%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p9 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p9 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p9%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p9 (traced).dxf`).
 
 ### Page 10
 
@@ -120,7 +120,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p9 (tra
 - **Closed boxes:** 3; named: CI"; cn
 - **Words (OCR):** 5 in 5 lines: LIOI · CI" · CrtQ · cn · CrtQ
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p10 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p10%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p10 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p10 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p10%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p10 (traced).dxf`).
 
 ### Page 11
 
@@ -132,7 +132,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p10 (tr
 - **Words (OCR):** 81 in 71 lines: SENSITYTY SWITCF · Level · COLDARCK · 6-VC · R23e · RAC · DEACK Pc 1B1 · BOOSTER · CUTFUT · 68"10 · LINE INPUT · PCiB2
 - **Title block:** (351, 18)–(409, 28) mm: WBS WARD-BECK
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p11 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p11%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p11 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p11 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p11%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p11 (traced).dxf`).
 
 ### Page 12
 
@@ -144,7 +144,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p11 (tr
 - **Words (OCR):** 190 in 147 lines: 36V · TO · AIZO · 620 · 15 · If · 01 · TE · 102 · NT · AY · SE
 - **Title block:** (324, 19)–(425, 56) mm: I~WARD.B.CK SYSTEMS LTD. · DRN. · ,'v1...1 · e.c · DATE AD · OOST · t-J IF · CKO, · SC · AT · SCALE · TOlS · 18 02 · ISS.
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p12 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p12%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p12 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p12 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p12%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p12 (traced).dxf`).
 
 ### Page 13
 
@@ -159,7 +159,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p12 (tr
 - **Title block:** (350, 19)–(409, 29) mm: WBS WAAD-BeCK
 - **Wiring (first pass):** 111 connected wire groups from 967 runs, 3 dotted junctions; labelled ends: 331 mm → 133, I0ia, 4k7; 153 mm → IN752, I0ia; 95 mm → 53; 88 mm → 828, 22, 7ocp; 85 mm → Pa, 4k7
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p13 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p13%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier p13 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier p13 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20p13%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier p13 (traced).dxf`).
 
 ## Full text
 

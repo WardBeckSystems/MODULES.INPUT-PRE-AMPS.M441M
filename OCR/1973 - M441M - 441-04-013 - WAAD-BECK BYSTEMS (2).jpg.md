@@ -21,7 +21,7 @@ Wiki page: [M441M](../../../../PAGES/M441M.md)
 - **Words (OCR):** 52 in 42 lines: WBS · M44iM · SENS · Sw 5 · 60 · 50 · WBS 60-9 · 140 · 30 · Swic · SWIA · 20 OFF Lin6
 - **Title block:** (114, 2)–(375, 251) mm: WBS · M44iM · SENS · Sw 5 · 60 · 50 · WBS 60-9 · 140 · 30 · Swic · SWIA · 20 OFF Lin6 · I0 · Sw2c · 8W2A · REVERE · IR2ia · SW2 D · Sw2B · PRE · OFF Post · R238 · Sw6 SW3 · FR · SW4 · Ch On · SIDE COV
 
-Every curve, box, word and wire group: [1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (2) (traced).json](../MECHANICAL/1973%20-%20M441M%20-%20441-04-013%20-%20WAAD-BECK%20BYSTEMS%20(2)%20(traced).json) (the CAD file: `1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (2) (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (2) (traced).json](../MECHANICAL/1973%20-%20M441M%20-%20441-04-013%20-%20WAAD-BECK%20BYSTEMS%20%282%29%20%28traced%29.json) (the CAD file: `1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (2) (traced).dxf`).
 
 ## Full text
 

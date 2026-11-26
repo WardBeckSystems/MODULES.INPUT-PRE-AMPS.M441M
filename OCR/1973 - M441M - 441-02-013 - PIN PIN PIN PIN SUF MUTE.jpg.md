@@ -23,7 +23,7 @@ Wiki page: [M441M](../../../../PAGES/M441M.md)
 - **Words (OCR):** 8 in 7 lines: 26 · 60-5 · F2 % · PC R4 · 93 25" · R3' · HOTEB
 - **Wiring (first pass):** 75 connected wire groups from 521 runs, 1 dotted junctions; labelled ends: 55 mm → R3'; 40 mm → R3'; 22 mm → 26; 16 mm → 93, 25"; 12 mm → 26
 
-Every curve, box, word and wire group: [1973 - M441M - 441-02-013 - PIN PIN PIN PIN SUF MUTE (traced).json](../SCHEMATICS/1973%20-%20M441M%20-%20441-02-013%20-%20PIN%20PIN%20PIN%20PIN%20SUF%20MUTE%20(traced).json) (the CAD file: `1973 - M441M - 441-02-013 - PIN PIN PIN PIN SUF MUTE (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - 441-02-013 - PIN PIN PIN PIN SUF MUTE (traced).json](../SCHEMATICS/1973%20-%20M441M%20-%20441-02-013%20-%20PIN%20PIN%20PIN%20PIN%20SUF%20MUTE%20%28traced%29.json) (the CAD file: `1973 - M441M - 441-02-013 - PIN PIN PIN PIN SUF MUTE (traced).dxf`).
 
 ## Full text
 

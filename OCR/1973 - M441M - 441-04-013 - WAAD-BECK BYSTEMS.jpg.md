@@ -19,7 +19,7 @@ Wiki page: [M441M](../../../../PAGES/M441M.md)
 - **Circles and arcs:** 3 circles, 0 arcs; largest r 5.5 @ (338.1, 172.6), r 5.5 @ (338.2, 215.1), r 1.5 @ (280.7, 2.5)
 - **Closed boxes:** 28
 
-Every curve, box, word and wire group: [1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (traced).json](../MECHANICAL/1973%20-%20M441M%20-%20441-04-013%20-%20WAAD-BECK%20BYSTEMS%20(traced).json) (the CAD file: `1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (traced).json](../MECHANICAL/1973%20-%20M441M%20-%20441-04-013%20-%20WAAD-BECK%20BYSTEMS%20%28traced%29.json) (the CAD file: `1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (traced).dxf`).
 
 ## Full text
 

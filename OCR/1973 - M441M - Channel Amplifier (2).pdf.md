@@ -27,7 +27,7 @@ Wiki page: [M441M](../../../../PAGES/M441M.md)
 - **Dots (junctions):** 2
 - **Words (OCR):** 5 in 5 lines: ca · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p1 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p1%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p1 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p1 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p1%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p1 (traced).dxf`).
 
 ### Page 2
 
@@ -36,7 +36,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p1 
 - **Outlines:** line 11 rings, 156 straight (230 mm) / 27 curved (42.4 mm); text 1,417 rings, 11,896 straight (12,269 mm) / 4,019 curved (5,977 mm)
 - **Words (OCR):** 159 in 86 lines: M441 · CHANNEL AMPLIFIER · Technical Data: · Preamplifier · Gain: · Microphone input; · 60dB to · 10dB +0.SdB selectable · via · sensitivity switch · Line · input;
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p2 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p2%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p2 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p2 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p2%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p2 (traced).dxf`).
 
 ### Page 3
 
@@ -47,7 +47,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p2 
 - **Dots (junctions):** 9
 - **Words (OCR):** 5 in 5 lines: ca · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p3 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p3%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p3 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p3 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p3%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p3 (traced).dxf`).
 
 ### Page 4
 
@@ -58,7 +58,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p3 
 - **Dots (junctions):** 30
 - **Words (OCR):** 5 in 5 lines: ca · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p4 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p4%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p4 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p4 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p4%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p4 (traced).dxf`).
 
 ### Page 5
 
@@ -71,7 +71,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p4 
 - **Words (OCR):** 5 in 5 lines: ca · ps · BS · tp · ht
 - **Wiring (first pass):** 55 connected wire groups from 2,564 runs
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p5 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p5%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p5 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p5 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p5%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p5 (traced).dxf`).
 
 ### Page 6
 
@@ -82,7 +82,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p5 
 - **Dots (junctions):** 11
 - **Words (OCR):** 5 in 5 lines: ca · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p6 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p6%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p6 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p6 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p6%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p6 (traced).dxf`).
 
 ### Page 7
 
@@ -93,7 +93,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p6 
 - **Dots (junctions):** 11
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p7 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p7%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p7 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p7 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p7%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p7 (traced).dxf`).
 
 ### Page 8
 
@@ -104,7 +104,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p7 
 - **Closed boxes:** 8
 - **Words (OCR):** 18 in 17 lines: II · ii · iiiiiiii · 1.,.,0 · Ie · IA · II!"""'ii · J!I · II · CH ON · "ill · MCVED
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p8 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p8%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p8 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p8 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p8%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p8 (traced).dxf`).
 
 ### Page 9
 
@@ -116,7 +116,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p8 
 - **Dots (junctions):** 1
 - **Words (OCR):** 26 in 26 lines: f.J · ill · if · <OJ · W'·I: · ii' · <II · II · ~II""-~ · II.. · iii! · ~"il
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p9 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p9%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p9 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p9 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p9%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p9 (traced).dxf`).
 
 ### Page 10
 
@@ -128,7 +128,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p9 
 - **Dots (junctions):** 2
 - **Words (OCR):** 19 in 19 lines: II!' · [II · ,II" · II · II · 1iI! · ,1iII.. · II!!!!M · 'iii · 'II · II · ca
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p10 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p10%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p10 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p10 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p10%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p10 (traced).dxf`).
 
 ### Page 11
 
@@ -140,7 +140,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p10
 - **Dots (junctions):** 2
 - **Words (OCR):** 4 in 4 lines: ps · BS · ht · tp
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p11 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p11%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p11 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p11 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p11%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p11 (traced).dxf`).
 
 ### Page 12
 
@@ -152,7 +152,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p11
 - **Dots (junctions):** 3
 - **Words (OCR):** 7 in 7 lines: 1,1 · II · ca · ps · BS · tp · ht
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p12 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p12%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p12 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p12 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p12%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p12 (traced).dxf`).
 
 ### Page 13
 
@@ -166,7 +166,7 @@ Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p12
 - **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht
 - **Wiring (first pass):** 114 connected wire groups from 1,207 runs, 3 dotted junctions
 
-Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p13 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20(2)%20p13%20(traced).json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p13 (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - Channel Amplifier (2) p13 (traced).json](../MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier%20%282%29%20p13%20%28traced%29.json) (the CAD file: `1973 - M441M - Channel Amplifier (2) p13 (traced).dxf`).
 
 ## Full text
 

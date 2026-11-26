@@ -29,7 +29,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 77 in 58 lines: 58 · 5.74 · 6'HOLE .128 DIA; · 4.50 · 29 · 3 `C · HOLES 4-40 UNC THD · 2-88 · RAD.(TYR) · 1.62 · 06 · 43
 - **Title block:** (140, 16)–(377, 68) mm: IsS MOD [CKD · USED ON · MATL · 14 GA.( 064 ThK) WBS WAAD-BECK · 200 · Dp · M441M · AL.ALLOY: · 352 · B441-03-0i1 · DRN Gp · FINISH VIBRATE CKD: D.RS · DATE FEB 73 ESCUTCHEON MTG PLATE · Ii20 GRIT & C
 
-Every curve, box, word and wire group: [1973 - M441M - DOC - 441-03-010 - MOD ICKD USED (traced).json](../MECHANICAL/1973%20-%20M441M%20-%20DOC%20-%20441-03-010%20-%20MOD%20ICKD%20USED%20(traced).json) (the CAD file: `1973 - M441M - DOC - 441-03-010 - MOD ICKD USED (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - DOC - 441-03-010 - MOD ICKD USED (traced).json](../MECHANICAL/1973%20-%20M441M%20-%20DOC%20-%20441-03-010%20-%20MOD%20ICKD%20USED%20%28traced%29.json) (the CAD file: `1973 - M441M - DOC - 441-03-010 - MOD ICKD USED (traced).dxf`).
 
 ## Full text
 

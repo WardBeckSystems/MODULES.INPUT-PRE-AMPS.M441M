@@ -20,7 +20,7 @@ Wiki page: [M441M](../../../../PAGES/M441M.md)
 - **Closed boxes:** 16
 - **Dots (junctions):** 3
 
-Every curve, box, word and wire group: [1973 - M441M - 182-06-001 - MIMBEND RAD UNLESS SPECIEIED (traced).json](../SCHEMATICS/1973%20-%20M441M%20-%20182-06-001%20-%20MIMBEND%20RAD%20UNLESS%20SPECIEIED%20(traced).json) (the CAD file: `1973 - M441M - 182-06-001 - MIMBEND RAD UNLESS SPECIEIED (traced).dxf`).
+Every curve, box, word and wire group: [1973 - M441M - 182-06-001 - MIMBEND RAD UNLESS SPECIEIED (traced).json](../SCHEMATICS/1973%20-%20M441M%20-%20182-06-001%20-%20MIMBEND%20RAD%20UNLESS%20SPECIEIED%20%28traced%29.json) (the CAD file: `1973 - M441M - 182-06-001 - MIMBEND RAD UNLESS SPECIEIED (traced).dxf`).
 
 ## Full text
 

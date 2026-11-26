@@ -11,6 +11,21 @@ Wiki page: [M441M](../../../../PAGES/M441M.md)
 - **Size:** 2,036,130 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 137 mm, 2000 × 633 px traced (0.216 mm/px)
+- **Ink extent:** 4–429 mm across, 3–134 mm up
+- **Outlines:** line 1,456 rings, 11,414 straight (15,682 mm) / 2,562 curved (3,190 mm); text 501 rings, 2,780 straight (2,328 mm) / 942 curved (1,153 mm); tb 9 rings, 72 straight (126 mm) / 10 curved (11.7 mm)
+- **Centre lines:** 10,848 paths (258 closed); straight 10,421 mm, curved 518 mm; horizontal 3,619 mm, vertical 2,470 mm, diagonal 4,332 mm
+- **Circles and arcs:** 13 circles, 123 arcs; largest r 4.0 @ (364.9, 116.3), r 3.7 @ (208.8, 88.0), r 3.7 @ (209.0, 118.9), r 3.7 @ (208.2, 31.7)
+- **Closed boxes:** 27; named: WBS bybtemB WAAD-BECk LTC; F4; SCALL
+- **Dots (junctions):** 3
+- **Words (OCR):** 81 in 69 lines: 244327 · 22k · Notes · FCR COMPONENT · 2N2102 · Bigi-o 0o3 · CCMvCn · FOR SCHEMATIC FC 162 · 378 · 8?72o · Bi8?- 0205 · v35
+- **Title block:** (350, 19)–(409, 29) mm: WBS WAAD-BECk
+- **Wiring (first pass):** 108 connected wire groups from 986 runs, 2 dotted junctions; labelled ends: 329 mm → IKB, 21; 315 mm → CUE; 148 mm → CRz, IN752; 109 mm → 22k, 323; 88 mm → 828, 1720, 32, ToOP
+
+Every curve, box, word and wire group: [1973 - M441M - schematic3_assembled (traced).json](../SCHEMATICS/1973%20-%20M441M%20-%20schematic3_assembled%20%28traced%29.json) (the CAD file: `1973 - M441M - schematic3_assembled (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 10 words corrected)
