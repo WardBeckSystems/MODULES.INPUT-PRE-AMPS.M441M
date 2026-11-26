@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/1973 - M441M - Channel Amplifier.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/cbe80c44dc547fea-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1546, 2000],
+  "mm": [333.8, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [119.4, 1.1, 333.8, 352.8],
+ "outlines": {
+  "line": {"rings": 4, "straight": {"n": 13, "mm": 13.0}, "curved": {"n": 4, "mm": 3.0}},
+  "text": {"rings": 212, "straight": {"n": 1880, "mm": 1957.3}, "curved": {"n": 589, "mm": 875.3}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [142.5, 315.2, 164.1, 321.7], "text": "M441M"},
+   {"mm": [118.7, 299.7, 147.9, 306.1], "text": "CHANNEL"},
+   {"mm": [154.2, 299.7, 191.7, 306.6], "text": "AMPLIFIER"},
+   {"mm": [120.9, 130.0, 170.8, 137.9], "text": "Designed and"},
+   {"mm": [172.7, 131.3, 222.4, 138.2], "text": "Manufactured"},
+   {"mm": [160.8, 114.4, 170.6, 122.1], "text": "by"},
+   {"mm": [121.3, 99.7, 159.1, 106.7], "text": "Ward-Beck"},
+   {"mm": [161.3, 98.9, 190.4, 107.0], "text": "Systems"},
+   {"mm": [192.6, 99.7, 222.8, 107.4], "text": "Limited"},
+   {"mm": [122.0, 90.9, 171.0, 99.4], "text": "841 Progress"},
+   {"mm": [172.9, 92.6, 198.2, 99.1], "text": "Avenue"},
+   {"mm": [121.8, 83.3, 202.7, 92.0], "text": "Scarborough, Ontario"},
+   {"mm": [121.3, 68.7, 161.7, 76.1], "text": "Telephone:"},
+   {"mm": [166.7, 69.1, 185.7, 76.8], "text": "(416)"},
+   {"mm": [189.8, 70.0, 222.6, 76.9], "text": "438-6550"},
+   {"mm": [122.0, 61.7, 146.4, 68.7], "text": "Telex:"},
+   {"mm": [165.6, 62.2, 199.1, 68.7], "text": "06-23469"}
+  ]
+ },
+ "title_block": {"mm": [114.8, 90.2, 197.2, 115.5], "from": "title-block words (training set)", "text": ["Ward-Beck", "Systems", "841 Progress", "Avenue"]},
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 334 × 432 mm, 1546 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 119–334 mm across, 1–353 mm up",
+  "- **Outlines:** line 4 rings, 13 straight (13.0 mm) / 4 curved (3.0 mm); text 212 rings, 1,880 straight (1,957 mm) / 589 curved (875 mm)",
+  "- **Words (OCR):** 19 in 17 lines: M441M · CHANNEL · AMPLIFIER · Designed and · Manufactured · by · Ward-Beck · Systems · Limited · 841 Progress · Avenue · Scarborough, Ontario",
+  "- **Title block:** (115, 90)–(197, 116) mm: Ward-Beck · Systems · 841 Progress · Avenue"
+ ]
+}

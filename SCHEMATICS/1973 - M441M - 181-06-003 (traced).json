@@ -1,0 +1,76 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M441M/SCHEMATICS/1973 - M441M - 181-06-003.jpg",
+ "version": 1,
+ "trace": "_traces/577d89c2ba649f2b.svg",
+ "sheet": {
+  "number": "181-06-003",
+  "title": "",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1414, 2000],
+  "mm": [305.3, 431.8],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 286.3, 430.6],
+ "outlines": {
+  "line": {"rings": 3165, "straight": {"n": 23486, "mm": 23957.9}, "curved": {"n": 6168, "mm": 5906.1}},
+  "text": {"rings": 332, "straight": {"n": 2685, "mm": 2277.6}, "curved": {"n": 847, "mm": 876.4}}
+ },
+ "circles": [
+  {"c": [213.6, 270.1], "r": 8.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.4},
+  {"c": [234.6, 270.3], "r": 8.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [117.7, 322.7], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [214.1, 271.8], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [204.5, 184.0], "r": 1.4, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [250.7, 327.3, 253.9, 337.5], "w": 3.2, "h": 10.1, "from": "ring"},
+  {"mm": [256.1, 295.6, 259.5, 305.9], "w": 3.5, "h": 10.4, "from": "ring"},
+  {"mm": [206.1, 231.9, 210.1, 242.7], "w": 4.0, "h": 10.8, "from": "ring"},
+  {"mm": [211.8, 232.1, 215.0, 242.5], "w": 3.2, "h": 10.4, "from": "ring"},
+  {"mm": [32.0, 226.6, 40.6, 239.6], "w": 8.6, "h": 13.0, "from": "ring"},
+  {"mm": [3.8, 226.6, 12.7, 239.4], "w": 8.9, "h": 12.8, "from": "ring"},
+  {"mm": [13.2, 226.7, 21.8, 239.4], "w": 8.6, "h": 12.7, "from": "ring"},
+  {"mm": [22.2, 226.7, 31.6, 239.4], "w": 9.4, "h": 12.7, "from": "ring"},
+  {"mm": [41.0, 226.7, 49.9, 239.4], "w": 8.9, "h": 12.7, "from": "ring"},
+  {"mm": [13.1, 188.0, 21.8, 225.6], "w": 8.7, "h": 37.6, "from": "ring"},
+  {"mm": [22.2, 188.0, 31.7, 225.4], "w": 9.5, "h": 37.4, "from": "ring", "words": ["Eeled:"]},
+  {"mm": [31.9, 188.0, 40.9, 225.4], "w": 9.0, "h": 37.4, "from": "ring"},
+  {"mm": [41.0, 188.0, 50.1, 225.4], "w": 9.1, "h": 37.4, "from": "ring"},
+  {"mm": [32.0, 109.6, 50.3, 187.5], "w": 18.4, "h": 77.9, "from": "ring"},
+  {"mm": [13.3, 109.4, 31.8, 187.5], "w": 18.5, "h": 78.0, "from": "ring"},
+  {"mm": [136.2, 165.8, 140.6, 176.8], "w": 4.3, "h": 11.1, "from": "ring"},
+  {"mm": [13.5, 4.0, 40.6, 108.4], "w": 27.1, "h": 104.4, "from": "ring"},
+  {"mm": [4.3, 95.6, 13.0, 108.2], "w": 8.7, "h": 12.6, "from": "ring"},
+  {"mm": [157.8, 91.3, 160.8, 93.7], "w": 3.1, "h": 2.4, "from": "ring"},
+  {"mm": [130.4, 83.5, 135.4, 93.3], "w": 5.0, "h": 9.8, "from": "ring"}
+ ],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [51.0, 377.8, 105.1, 402.7], "text": "8128 92"},
+   {"mm": [182.0, 261.7, 205.8, 276.8], "text": "8063"},
+   {"mm": [243.5, 261.7, 261.5, 276.3], "text": "EBE"},
+   {"mm": [2.2, 205.5, 49.0, 226.2], "text": "Eeled:"},
+   {"mm": [65.0, 198.8, 79.0, 203.2], "text": "Sw ZA|"},
+   {"mm": [63.7, 191.1, 75.6, 197.5], "text": "Swzc"},
+   {"mm": [4.3, 179.2, 13.0, 196.0], "text": "83"},
+   {"mm": [64.8, 180.5, 77.5, 185.3], "text": "Sw2"},
+   {"mm": [3.5, 169.3, 13.2, 183.2], "text": "e3"}
+  ]
+ },
+ "dots": [{"c": [74.7, 16.6], "r": 1.6, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 181-06-003, size B (assumed) 305 × 432 mm, 1414 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–286 mm across, 0–431 mm up",
+  "- **Outlines:** line 3,165 rings, 23,486 straight (23,958 mm) / 6,168 curved (5,906 mm); text 332 rings, 2,685 straight (2,278 mm) / 847 curved (876 mm)",
+  "- **Circles and arcs:** 5 circles, 0 arcs; largest r 8.5 @ (213.6, 270.1), r 8.4 @ (234.6, 270.3), r 3.2 @ (117.7, 322.7), r 1.9 @ (214.1, 271.8)",
+  "- **Closed boxes:** 20; named: Eeled:",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 10 in 9 lines: 8128 92 · 8063 · EBE · Eeled: · Sw ZA| · Swzc · 83 · Sw2 · e3"
+ ]
+}

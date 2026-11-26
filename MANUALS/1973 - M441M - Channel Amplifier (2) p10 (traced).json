@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/1973 - M441M - Channel Amplifier (2).pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/8b809e0309b8803e-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1344],
+  "mm": [431.8, 290.2],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.7, 0.4, 315.0, 287.4],
+ "outlines": {
+  "line": {"rings": 785, "straight": {"n": 10479, "mm": 12093.7}, "curved": {"n": 2125, "mm": 2902.9}},
+  "text": {"rings": 13, "straight": {"n": 45, "mm": 34.3}, "curved": {"n": 14, "mm": 12.8}}
+ },
+ "circles": [
+  {"c": [191.4, 174.9], "r": 10.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [190.8, 73.0], "r": 10.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [220.4, 72.6], "r": 10.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [220.8, 174.5], "r": 10.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [157.1, 175.2], "r": 9.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [156.8, 73.3], "r": 9.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [286.2, 233.7], "r": 7.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [13.4, 196.6], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [37.0, 121.5], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [36.6, 19.6], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [257.0, 21.4], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [257.5, 123.4], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [286.2, 237.1], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [287.5, 209.2], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [220.0, 71.9], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [246.6, 218.3, 257.6, 221.9], "w": 11.0, "h": 3.7, "from": "ring"},
+  {"mm": [240.1, 136.9, 263.0, 186.4], "w": 22.9, "h": 49.4, "from": "ring"},
+  {"mm": [239.6, 35.0, 262.7, 84.4], "w": 23.0, "h": 49.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 19,
+  "lines": [
+   {"mm": [187.4, 283.9, 188.0, 285.3], "text": "II!'"},
+   {"mm": [184.4, 280.7, 185.0, 282.1], "text": "[II"},
+   {"mm": [186.3, 282.2, 187.4, 283.6], "text": ",II\""},
+   {"mm": [313.3, 263.6, 314.4, 265.3], "text": "II"},
+   {"mm": [313.3, 262.1, 314.6, 264.0], "text": "II"},
+   {"mm": [145.3, 227.6, 145.7, 229.0], "text": "1iI!"},
+   {"mm": [246.3, 207.9, 247.6, 209.4], "text": ",1iII.."},
+   {"mm": [263.4, 205.1, 265.3, 206.5], "text": "II!!!!M"},
+   {"mm": [201.7, 203.2, 202.3, 204.6], "text": "'iii"},
+   {"mm": [217.4, 188.5, 218.1, 189.9], "text": "'II"},
+   {"mm": [127.4, 122.8, 127.8, 124.3], "text": "II"},
+   {"mm": [401.8, 57.0, 419.5, 64.9], "text": "ca"},
+   {"mm": [391.9, 47.1, 410.0, 55.0], "text": "ps"},
+   {"mm": [298.6, 45.6, 299.5, 47.0], "text": ",oj]"},
+   {"mm": [382.1, 37.1, 401.1, 47.0], "text": "BS"},
+   {"mm": [126.9, 20.9, 127.4, 22.4], "text": "II"},
+   {"mm": [362.7, 17.7, 378.7, 23.9], "text": "tp"},
+   {"mm": [73.2, 18.4, 73.6, 19.8], "text": "1II"},
+   {"mm": [356.5, 11.4, 374.6, 17.7], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [289.5, 62.9], "r": 1.5, "lines": 0}, {"c": [231.5, 19.2], "r": 1.3, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 290 mm, 2000 × 1344 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–315 mm across, 0–287 mm up",
+  "- **Outlines:** line 785 rings, 10,479 straight (12,094 mm) / 2,125 curved (2,903 mm); text 13 rings, 45 straight (34.3 mm) / 14 curved (12.8 mm)",
+  "- **Circles and arcs:** 15 circles, 0 arcs; largest r 10.3 @ (191.4, 174.9), r 10.2 @ (190.8, 73.0), r 10.1 @ (220.4, 72.6), r 10.1 @ (220.8, 174.5)",
+  "- **Closed boxes:** 3",
+  "- **Dots (junctions):** 2",
+  "- **Words (OCR):** 19 in 19 lines: II!' · [II · ,II\" · II · II · 1iI! · ,1iII.. · II!!!!M · 'iii · 'II · II · ca"
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/1973 - M441M - Channel Amplifier.pdf",
+ "page": 9,
+ "version": 1,
+ "trace": "_traces/cbe80c44dc547fea-p9.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1349],
+  "mm": [431.8, 291.2],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "9", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [3.5, 0.2, 426.2, 288.7],
+ "outlines": {
+  "line": {"rings": 2303, "straight": {"n": 26772, "mm": 26938.2}, "curved": {"n": 6284, "mm": 8022.3}},
+  "text": {"rings": 435, "straight": {"n": 2326, "mm": 2279.8}, "curved": {"n": 681, "mm": 840.4}}
+ },
+ "circles": [
+  {"c": [121.9, 73.7], "r": 9.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [122.8, 167.2], "r": 9.5, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [143.1, 81.7], "r": 8.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [144.1, 175.1], "r": 8.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [99.5, 81.8], "r": 8.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [100.4, 175.2], "r": 8.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [122.9, 236.2], "r": 8.6, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [88.2, 217.7], "r": 8.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [155.5, 238.4], "r": 7.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [88.1, 238.8], "r": 7.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [155.3, 216.9], "r": 7.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [189.4, 236.3], "r": 7.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [98.6, 117.8], "r": 6.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.6},
+  {"c": [97.6, 24.3], "r": 6.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [97.7, 24.4], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [98.6, 117.8], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [73.8, 272.7], "r": 3.4, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.5},
+  {"c": [363.8, 191.7], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [96.0, 270.0], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [338.3, 24.4], "r": 3.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [339.2, 117.9], "r": 3.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [339.8, 175.7, 342.2, 178.8], "w": 2.4, "h": 3.0, "from": "ring"},
+  {"mm": [339.6, 159.1, 341.8, 161.9], "w": 2.2, "h": 2.8, "from": "ring"},
+  {"mm": [347.8, 137.1, 350.0, 140.3], "w": 2.2, "h": 3.2, "from": "ring"},
+  {"mm": [339.0, 82.3, 341.4, 85.3], "w": 2.4, "h": 3.0, "from": "ring"},
+  {"mm": [338.7, 65.8, 340.9, 68.4], "w": 2.2, "h": 2.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 26,
+  "lines": [
+   {"mm": [115.9, 283.5, 134.3, 288.0], "text": "PCIBZ--"},
+   {"mm": [388.4, 246.8, 395.7, 251.1], "text": "VI,"},
+   {"mm": [378.3, 231.7, 395.3, 236.2], "text": "SWIC"},
+   {"mm": [388.0, 216.5, 395.1, 221.1], "text": "Gr,"},
+   {"mm": [375.9, 206.0, 395.3, 210.3], "text": "TI- RO"},
+   {"mm": [144.2, 201.0, 148.3, 205.6], "text": "14"},
+   {"mm": [281.3, 186.8, 290.0, 193.7], "text": "C:1"},
+   {"mm": [137.5, 137.5, 149.2, 141.6], "text": "wlAE"},
+   {"mm": [19.2, 132.8, 33.7, 137.6], "text": "SW3"},
+   {"mm": [138.0, 134.1, 147.9, 137.4], "text": "\\-tNl<."},
+   {"mm": [4.3, 126.3, 41.2, 130.6], "text": "CUE SWITCH"},
+   {"mm": [123.3, 110.5, 129.8, 113.4], "text": "oZ."},
+   {"mm": [16.8, 100.2, 31.5, 103.1], "text": "<:'V./.<1"},
+   {"mm": [118.7, 90.7, 124.1, 95.5], "text": "ttl"},
+   {"mm": [228.4, 88.5, 232.1, 91.4], "text": "dO:"},
+   {"mm": [116.4, 71.9, 125.9, 77.7], "text": "'L2"},
+   {"mm": [136.4, 44.0, 148.1, 48.1], "text": "w.AE"},
+   {"mm": [18.1, 39.3, 32.8, 44.1], "text": "SW3"},
+   {"mm": [136.9, 40.6, 146.8, 43.9], "text": "\\-tNl<."},
+   {"mm": [3.5, 32.8, 40.6, 37.1], "text": "CUE SWITCH"},
+   {"mm": [15.8, 5.0, 30.7, 9.8], "text": "SW4"},
+   {"mm": [280.0, -0.2, 302.0, 8.4], "text": "AIl f.l"}
+  ]
+ },
+ "dots": [{"c": [283.5, 106.1], "r": 0.9, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 291 mm, 2000 × 1349 px traced (0.216 mm/px)",
+  "- **Ink extent:** 4–426 mm across, 0–289 mm up",
+  "- **Outlines:** line 2,303 rings, 26,772 straight (26,938 mm) / 6,284 curved (8,022 mm); text 435 rings, 2,326 straight (2,280 mm) / 681 curved (840 mm)",
+  "- **Circles and arcs:** 21 circles, 0 arcs; largest r 9.6 @ (121.9, 73.7), r 9.5 @ (122.8, 167.2), r 8.7 @ (143.1, 81.7), r 8.7 @ (144.1, 175.1)",
+  "- **Closed boxes:** 5",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 26 in 22 lines: PCIBZ-- · VI, · SWIC · Gr, · TI- RO · 14 · C:1 · wlAE · SW3 · \\-tNl<. · CUE SWITCH · oZ."
+ ]
+}

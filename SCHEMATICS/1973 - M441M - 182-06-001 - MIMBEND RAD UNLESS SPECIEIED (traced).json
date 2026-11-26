@@ -1,0 +1,52 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M441M/SCHEMATICS/1973 - M441M - 182-06-001 - MIMBEND RAD UNLESS SPECIEIED.jpg",
+ "version": 1,
+ "trace": "_traces/008862364d02e6c1.svg",
+ "sheet": {
+  "number": "182-06-001",
+  "title": "Mimbend Rad Unless Specieied",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, -0.1, 431.8, 286.1],
+ "outlines": {
+  "line": {"rings": 2009, "straight": {"n": 13472, "mm": 12722.8}, "curved": {"n": 3437, "mm": 3188.9}},
+  "text": {"rings": 250, "straight": {"n": 1631, "mm": 1417.7}, "curved": {"n": 464, "mm": 477.7}}
+ },
+ "circles": [{"c": [215.3, 35.2], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [
+  {"mm": [253.3, 242.2, 255.4, 244.6], "w": 2.2, "h": 2.4, "from": "ring"},
+  {"mm": [252.8, 228.9, 255.2, 231.4], "w": 2.4, "h": 2.6, "from": "ring"},
+  {"mm": [257.6, 202.9, 267.7, 206.6], "w": 10.1, "h": 3.7, "from": "ring"},
+  {"mm": [185.1, 0.0, 430.3, 50.7], "w": 245.2, "h": 50.7, "from": "ring"},
+  {"mm": [190.8, 40.2, 203.6, 49.1], "w": 12.8, "h": 8.9, "from": "ring"},
+  {"mm": [204.8, 40.1, 242.2, 49.1], "w": 37.4, "h": 9.0, "from": "ring"},
+  {"mm": [242.7, 12.1, 320.7, 49.1], "w": 78.0, "h": 37.0, "from": "ring"},
+  {"mm": [190.9, 31.1, 203.6, 39.7], "w": 12.7, "h": 8.6, "from": "ring"},
+  {"mm": [204.9, 30.9, 242.2, 39.7], "w": 37.4, "h": 8.9, "from": "ring"},
+  {"mm": [321.7, 12.0, 426.0, 39.3], "w": 104.3, "h": 27.3, "from": "ring"},
+  {"mm": [190.9, 21.4, 203.6, 30.7], "w": 12.7, "h": 9.3, "from": "ring"},
+  {"mm": [204.7, 21.3, 242.2, 30.7], "w": 37.6, "h": 9.4, "from": "ring"},
+  {"mm": [190.8, 12.3, 203.6, 20.9], "w": 12.8, "h": 8.7, "from": "ring"},
+  {"mm": [204.7, 12.1, 242.2, 20.9], "w": 37.6, "h": 8.9, "from": "ring"},
+  {"mm": [334.9, 3.0, 402.5, 11.7], "w": 67.6, "h": 8.7, "from": "ring"},
+  {"mm": [321.9, 3.0, 334.4, 11.7], "w": 12.6, "h": 8.6, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [254.0, 230.3], "r": 0.8, "lines": 0}, {"c": [166.2, 216.8], "r": 0.9, "lines": 0}, {"c": [358.4, 7.2], "r": 1.5, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout 182-06-001, size B (assumed) 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 2–432 mm across, 0–286 mm up",
+  "- **Outlines:** line 2,009 rings, 13,472 straight (12,723 mm) / 3,437 curved (3,189 mm); text 250 rings, 1,631 straight (1,418 mm) / 464 curved (478 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.8 @ (215.3, 35.2)",
+  "- **Closed boxes:** 16",
+  "- **Dots (junctions):** 3"
+ ]
+}

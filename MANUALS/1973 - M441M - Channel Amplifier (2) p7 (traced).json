@@ -1,0 +1,74 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/1973 - M441M - Channel Amplifier (2).pdf",
+ "page": 7,
+ "version": 1,
+ "trace": "_traces/8b809e0309b8803e-p7.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1456, 2000],
+  "mm": [314.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "7", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 13.2, 306.9, 420.8],
+ "outlines": {
+  "line": {"rings": 819, "straight": {"n": 7386, "mm": 7992.3}, "curved": {"n": 2347, "mm": 3469.2}},
+  "text": {"rings": 83, "straight": {"n": 349, "mm": 394.4}, "curved": {"n": 45, "mm": 76.7}}
+ },
+ "circles": [
+  {"c": [210.7, 169.2], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [234.8, 169.4], "r": 2.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [49.4, 321.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [81.4, 328.5], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [129.1, 322.0], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [33.1, 341.7], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [35.3, 180.8], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [89.4, 321.6], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [145.2, 321.9], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [21.5, 327.9], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [21.1, 354.6], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [61.1, 348.7], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [72.9, 355.2], "r": 1.7, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [125.1, 328.7], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [208.5, 329.2], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [113.0, 328.6], "r": 1.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7}
+ ],
+ "boxes": [],
+ "text": {
+  "words": 4,
+  "lines": [
+   {"mm": [271.4, 50.7, 291.0, 59.1], "text": "ps"},
+   {"mm": [260.6, 39.9, 281.1, 50.7], "text": "BS"},
+   {"mm": [239.6, 19.0, 257.1, 25.7], "text": "tp"},
+   {"mm": [233.0, 12.3, 252.6, 19.0], "text": "ht"}
+  ]
+ },
+ "dots": [
+  {"c": [228.4, 349.5], "r": 1.0, "lines": 0},
+  {"c": [49.2, 343.4], "r": 0.7, "lines": 0},
+  {"c": [6.3, 341.5], "r": 1.0, "lines": 0},
+  {"c": [86.4, 247.8], "r": 0.7, "lines": 0},
+  {"c": [79.8, 153.4], "r": 0.8, "lines": 0},
+  {"c": [76.6, 93.3], "r": 0.8, "lines": 0},
+  {"c": [148.6, 83.9], "r": 0.8, "lines": 0},
+  {"c": [148.8, 75.7], "r": 0.7, "lines": 0},
+  {"c": [76.9, 75.1], "r": 0.7, "lines": 0},
+  {"c": [148.8, 73.8], "r": 0.7, "lines": 0},
+  {"c": [224.6, 54.1], "r": 0.8, "lines": 0}
+ ],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 314 × 432 mm, 1456 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–307 mm across, 13–421 mm up",
+  "- **Outlines:** line 819 rings, 7,386 straight (7,992 mm) / 2,347 curved (3,469 mm); text 83 rings, 349 straight (394 mm) / 45 curved (76.7 mm)",
+  "- **Circles and arcs:** 16 circles, 0 arcs; largest r 2.1 @ (210.7, 169.2), r 2.1 @ (234.8, 169.4), r 1.8 @ (49.4, 321.4), r 1.8 @ (81.4, 328.5)",
+  "- **Dots (junctions):** 11",
+  "- **Words (OCR):** 4 in 4 lines: ps · BS · tp · ht"
+ ]
+}

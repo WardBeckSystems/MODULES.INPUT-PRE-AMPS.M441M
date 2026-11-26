@@ -1,0 +1,65 @@
+{
+ "drawing": "Modules/INPUT-PRE-AMPS/M441M/MANUALS/1973 - M441M - Channel Amplifier.pdf",
+ "page": 10,
+ "version": 1,
+ "trace": "_traces/cbe80c44dc547fea-p10.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [2000, 1344],
+  "mm": [431.8, 290.2],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "10", "pages": "13"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [4.7, 0.4, 315.0, 287.4],
+ "outlines": {
+  "line": {"rings": 716, "straight": {"n": 10083, "mm": 11685.1}, "curved": {"n": 2034, "mm": 2766.2}},
+  "text": {"rings": 82, "straight": {"n": 441, "mm": 442.9}, "curved": {"n": 105, "mm": 149.5}}
+ },
+ "circles": [
+  {"c": [191.4, 174.9], "r": 10.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [190.8, 73.0], "r": 10.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [220.4, 72.6], "r": 10.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [220.8, 174.5], "r": 10.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [157.1, 175.2], "r": 9.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 1.0},
+  {"c": [156.8, 73.3], "r": 9.5, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [286.2, 233.7], "r": 7.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [13.4, 196.6], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.9},
+  {"c": [37.0, 121.5], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [36.6, 19.6], "r": 3.3, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.7},
+  {"c": [257.0, 21.4], "r": 3.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [257.5, 123.4], "r": 2.8, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.8},
+  {"c": [286.2, 237.1], "r": 2.2, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [220.0, 71.9], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [246.6, 218.3, 257.6, 221.9], "w": 11.0, "h": 3.7, "from": "ring"},
+  {"mm": [240.1, 136.9, 263.0, 186.4], "w": 22.9, "h": 49.4, "from": "ring", "words": ["CI\""]},
+  {"mm": [239.6, 35.0, 262.7, 84.4], "w": 23.0, "h": 49.4, "from": "ring", "words": ["cn"]}
+ ],
+ "text": {
+  "words": 5,
+  "lines": [
+   {"mm": [279.8, 206.4, 291.2, 211.0], "text": "LIOI"},
+   {"mm": [244.0, 161.5, 252.6, 166.8], "text": "CI\""},
+   {"mm": [279.6, 162.6, 292.1, 166.9], "text": "CrtQ"},
+   {"mm": [243.8, 60.0, 252.2, 66.5], "text": "cn"},
+   {"mm": [279.2, 60.5, 291.7, 64.8], "text": "CrtQ"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 432 × 290 mm, 2000 × 1344 px traced (0.216 mm/px)",
+  "- **Ink extent:** 5–315 mm across, 0–287 mm up",
+  "- **Outlines:** line 716 rings, 10,083 straight (11,685 mm) / 2,034 curved (2,766 mm); text 82 rings, 441 straight (443 mm) / 105 curved (150 mm)",
+  "- **Circles and arcs:** 14 circles, 0 arcs; largest r 10.3 @ (191.4, 174.9), r 10.2 @ (190.8, 73.0), r 10.1 @ (220.4, 72.6), r 10.1 @ (220.8, 174.5)",
+  "- **Closed boxes:** 3; named: CI\"; cn",
+  "- **Words (OCR):** 5 in 5 lines: LIOI · CI\" · CrtQ · cn · CrtQ"
+ ]
+}
