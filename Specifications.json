@@ -1,0 +1,153 @@
+{
+ "module": "M441M",
+ "title": "",
+ "source": {
+  "file": "MANUALS/1973 - M441M - Channel Amplifier.pdf",
+  "page": 2
+ },
+ "ocr_quality": 0.91,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "a) Preamplifier"
+  },
+  {
+   "name": "Microphone input",
+   "key": "microphone_input",
+   "text": "60dB to 10dB +0.SdB selectable via sensitivity switch",
+   "quantities": [
+    {
+     "value": 60,
+     "unit": "dB"
+    },
+    {
+     "value": 10,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Line input",
+   "key": "line_input",
+   "text": "unity to -l8dB +0.SaB selectable via sensitivity switch b) Booster amplifier 154B +0.25dB",
+   "quantities": [
+    {
+     "value": 8,
+     "unit": "dB"
+    },
+    {
+     "value": 0.25,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "+0.25aB 30Hz to 20kHz",
+   "quantities": [
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "Microphone input equivalent to -124 input noise for -70 sensitivity Line input greater than 75aB signal to noise (referred to a test level 10dB above the nominal operating level)",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Total harmonic distortion",
+   "key": "total_harmonic_distortion",
+   "text": "Less than 0.258 3 OHz to 20kHz measured with a preamplifier output level of +24aBm and a booster amplifier output level of +l8Bm",
+   "quantities": [
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "Microphone input -70dBm to-20dBm nominal -35dBm to +15dBm maximum Line Input -l0dBm to +8Bm nominal +25Bm maximum Booster amplifier input -25dBm nominal +SaBm max",
+   "quantities": [
+    {
+     "value": -70,
+     "unit": "dBm"
+    },
+    {
+     "value": -20,
+     "unit": "dBm"
+    },
+    {
+     "value": -35,
+     "unit": "dBm"
+    },
+    {
+     "value": 15,
+     "unit": "dBm"
+    },
+    {
+     "value": 0,
+     "unit": "dBm"
+    },
+    {
+     "value": -25,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "Mi= crophone input 150 ohms balanced Line input 600 ohms or less balanced Booster amplifier input 600 ohms or less balanced.",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "Microphone input 750 ohms or greater balanced Line input 20K ohms balanced (may be externally terminated in 600 or 150 ohms) Booster amplifier input 4000 ohms balanced.",
+   "quantities": [
+    {
+     "value": 750,
+     "unit": "ohms"
+    },
+    {
+     "value": 150,
+     "unit": "ohms"
+    },
+    {
+     "value": 4000,
+     "unit": "ohms"
+    }
+   ]
+  }
+ ]
+}

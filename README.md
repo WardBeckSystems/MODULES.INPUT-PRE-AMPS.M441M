@@ -13,6 +13,146 @@ Ward-Beck Systems M441M, 1973|6. Wiki page: [M441M on WBSps.ca](https://wardbeck
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 59 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [13 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1973 - M441M - Channel Amplifier.pdf](MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier.pdf) page 2 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | a) Preamplifier |
+| **Microphone input** | 60dB to 10dB +0.SdB selectable via sensitivity switch |
+| **Line input** | unity to -l8dB +0.SaB selectable via sensitivity switch b) Booster amplifier 154B +0.25dB |
+| **Frequency response** | +0.25aB 30Hz to 20kHz |
+| **Noise** | Microphone input equivalent to -124 input noise for -70 sensitivity Line input greater than 75aB signal to noise (referred to a test level 10dB above the nominal operating level) |
+| **Total harmonic distortion** | Less than 0.258 3 OHz to 20kHz measured with a preamplifier output level of +24aBm and a booster amplifier output level of +l8Bm |
+| **Input level** | Microphone input -70dBm to-20dBm nominal -35dBm to +15dBm maximum Line Input -l0dBm to +8Bm nominal +25Bm maximum Booster amplifier input -25dBm nominal +SaBm max |
+| **Source impedance** | Mi= crophone input 150 ohms balanced Line input 600 ohms or less balanced Booster amplifier input 600 ohms or less balanced. |
+| **Input impedance** | Microphone input 750 ohms or greater balanced Line input 20K ohms balanced (may be externally terminated in 600 or 150 ohms) Booster amplifier input 4000 ohms balanced. |
+
+## Circuit description
+
+From [1973 - M441M - Channel Amplifier.pdf](MANUALS/1973%20-%20M441M%20-%20Channel%20Amplifier.pdf) pages 4-9 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+The M441M Channel Amplifier provides the following major functions:preamplification to a microphone source 8 selection of aline input sensitivity and phase reversal adjustment to either the mic or line source reverb send selection (pre or post fade) and mix control foldback select and mix control 17 shlonee eeleot_ I switch booster amplification following the mixer attenuator For the following description please refer to drawings:- B441-02-013 B181-02-001 Bl82-02-001 The microphone input is coupled through the module edge connector (pins 1 and A) to sensitivity switch SWl as in the line input coupled through bridging resistors Rl and R2 from the edge connector (pins 5 and E) to sensitivity switch Swl _ Switch decks A &amp; B of SWl provide microphone sensitivity selections from ~704BM to ~20dBm fora standard nominal output level of -l0Bm ana sensitivity selections from -loaBm to +8dBm for line inputs _ The microphone input is designed for operating from a 150 ohm source and the line input is designed to operate from a 600 ohm source or lower Both inputs are balanced to ground with the microphone input providing an input impedance of 750 ohms or greater to the source and the line input a 20K ohm bridge to the source Sensitivity adjustments made by SWl is a combination of preamplifier feed back and input pad selection _ By this means, it is possible to improve signal to noise with decreasing input sensitivity as well as maintaining the highest over all dynamic range for the channel amplifier input circuitry_ The signal output from Swl is coupled via phase reversal switch SWS to the preamplifier, input transformer Tl_ The secondary of Tl operates into I/c 21 (pins 5 and 6) This section of 7.1 is the actual preamplifierR8 and the resistors on deck C of SWl set the feedback around 21 and therefore its gain_ R3 with CRI and CR2 are an overdrive protection circuit to prevent damage to preamplifier 21 should the input to the channel amplifier be excessively overdrive _ The second section of 2l along with Q1 form an integral Low Pass Filter with components R9 = Rlo, C8 and C12 This filter has a cut-off frequency of approximately 30kHz at a rate of 12dB/octave _ This helps prevent excessively high frequency components from being passed by the system _ Cl3 couples the signal to the actively balanced power output stage of the preamplifier section 22 with Q2 and Q3 form one half of the output stage and operate in an inverting mode_ 23 with Q4 and Q5 forms the other half of the output stage and operate ina non-inverting mode. The actively balanced preamplifier output appears at pins 4 and D of the module edge connector The signal level at this point is nominally ~ lodBm and operates into the main mixer channel attenuator (normally a balanced P &amp; G 1550 slide attenuator) The mixer attenuator output operates at pins 8 and J of the channel amplifier edge connector which is the booster amplifier input (dwg _ Bl82-02-001) 2101 is connected ina configuration known as a differential cross coupled pair_ This circuit provides an actively balanced input and output with excellent longitudinal balance_ The outputs of 2101 appearing at pins 1 and 13 have their power output capability increased by the power output transistor Q101 to Q104. The balanced output signal is coupled through Clio, C1ll Llol and L102; appearing at the module edge connector pins 5 and S _ The booster amplifier output also feeds: a) the foldback level control R238 _ The output Of which passes through the foldback select switch Sw6 _ C44= C45 and summing resistors R232 and R233; appearing at pins 10 and Lab) Channel &quot;ON ' I1 switch SW4 _ with its output appearing at pins 16 and T_ c) the post position of Reverb Send Select Switch SW2 _ The preposition of Reverb Send Switch Sw2 and the input of the CUE/ Solo Switch appear at pins 7 and H of the edge connector This point is brought out separately and normally jumpered to the preamplifier output at pins 4 and D_ In the instance when an equalizer and or insert jacks are connected at the preamplifier output; then pins 7 and H would be connected at the output of the equalizer and or insert jacks. Reverb Send Switch SW2 besides providing pre-post fade selection, in addition makes selection of either Rev 1 or Rev 2 send buss These two busses appear at pins 11 and M, and 12 and N of the module connector_ (Optionally the buss selection maybe increased to 4) R219 is the Reverb Send Level controlTheoutput from the Cue/Solo select switch SW3 appears at pins 9 and K= A dc control circuit is provided with SW3 to operate an external solo relay when required_ In addition_ the Channel ON switch SW4 has additional contact closures for operating an announce turret selection ana remote control system The 48 volt supply voltage appearing at pin 22 of the module connector is decoupled through the active decoupler Q11 and Q12 to 36V Q10 senses the channel amplifier supply current by sampling the voltage developed across R49 and R50 _ Should it become excessive (greater than 100 ma) Q10 conducts reducing the drive to the base of Q12 and thereby limiting the power dissipation in the channel amplifier to a safe level_ The power supply common appears at pin V and chassis at pins 19 and W. M44lM
+
+**AMPLIFIER**
+
+DC Voltage Chart:
+
+The following DC voltages are typical and may vary +108. The idle current should be between 48 ma and 52 ma with a supply voltage of 48Vdc _ The vol meter used for the following measurements should have a sensitivity of 20,000 ohms per volt or greater. Integrated_ Circuits:
+
+Pins
+
+8 9
+
+12.5 24.5 22 22
+
+**12.5 12.5 T**
+
+12.5 12.5 22 22 24.5 13
+
+18 36
+
+2101
+
+Transistors:
+
+**COLLECTOR**
+
+Q1 Q2 Q3 Q4 Q5 Q10 Q11 Q12 Q101 Q102 Q103 Q104 12.75 13.25 18.5 26 36 18 18 18
+
+18.5
+
+18 36
+
+36.5
+
+47.5
+
+36.5 47.5 18 18 18.5
+
+17.5 18.75 17.5
+
+WB8 044im SENS 5 60 50 8 40 4 3 20 Aic OFF Vn6 REVERE
+
+SwiB
+
+**T / WB: 60-9**
+
+SwIc
+
+**JWIA**
+
+EWZA Sw2c
+
+SWQD sWZB OFF Pst
+
+**PCB 182**
+
+R23e-~
+
+**W 4**
+
+Ch ON
+
+**SIDE COVER REMG VED**
+
+USED Om MATL.
+
+WPS Mlaan-ReCv 50, 8 Ho 4 30 = 20 Aic OFF Vn6 RFVE RE
+
+**T / WB: 60-9**
+
+SwIc
+
+**3WIA**
+
+AVc4 Pci8ZL 0 [B3B} {5]Y {z} [e {Z {Rea {Z
+
+DJ {Bz} paZ 84J
+
+**{BPF ~ {34 03**
+
+TiVi
+
+Sw IC
+
+**D 8 049**
+
+04} @Z {Q2 {22 {Fvs Ll Ti-6i ] Ti-RO
+
+**{BLB? {3 {3**
+
+B4 BxD}
+
+Cs+3 {B} ] 8 Zi Nb 2
+
+WL ? Ei4
+
+Sw 3 CLE switcht_ 5 3 Wire Link Sw 3 CUE SwITCh R,s Rs 4
+
+2.220 cwi 4
+
+Cs 3 274 Zip Nb 4 Low 3
+
+CLE SW switch(Wire Link SW 3 CUE SwiTch Rs.8 RS 4
+
+**2 C**
+
+Sw 4
+
+7ife
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

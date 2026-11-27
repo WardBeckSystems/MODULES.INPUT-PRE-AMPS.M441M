@@ -1,0 +1,134 @@
+{
+ "module": "M441M",
+ "source": {
+  "file": "MANUALS/1973 - M441M - Channel Amplifier.pdf",
+  "pages": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ "ocr_quality": 0.91,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "The M441M Channel Amplifier provides the following major functions:preamplification to a microphone source 8 selection of aline input sensitivity and phase reversal adjustment to either the mic or line source reverb send selection (pre or post fade) and mix control foldback select and mix control 17 shlonee eeleot_ I switch booster amplification following the mixer attenuator For the following description please refer to drawings:- B441-02-013 B181-02-001 Bl82-02-001 The microphone input is coupled through the module edge connector (pins 1 and A) to sensitivity switch SWl as in the line input coupled through bridging resistors Rl and R2 from the edge connector (pins 5 and E) to sensitivity switch Swl _ Switch decks A & B of SWl provide microphone sensitivity selections from ~704BM to ~20dBm fora standard nominal output level of -l0Bm ana sensitivity selections from -loaBm to +8dBm for line inputs _ The microphone input is designed for operating from a 150 ohm source and the line input is designed to operate from a 600 ohm source or lower Both inputs are balanced to ground with the microphone input providing an input impedance of 750 ohms or greater to the source and the line input a 20K ohm bridge to the source Sensitivity adjustments made by SWl is a combination of preamplifier feed back and input pad selection _ By this means, it is possible to improve signal to noise with decreasing input sensitivity as well as maintaining the highest over all dynamic range for the channel amplifier input circuitry_ The signal output from Swl is coupled via phase reversal switch SWS to the preamplifier, input transformer Tl_ The secondary of Tl operates into I/c 21 (pins 5 and 6) This section of 7.1 is the actual preamplifierR8 and the resistors on deck C of SWl set the feedback around 21 and therefore its gain_ R3 with CRI and CR2 are an overdrive protection circuit to prevent damage to preamplifier 21 should the input to the channel amplifier be excessively overdrive _ The second section of 2l along with Q1 form an integral Low Pass Filter with components R9 = Rlo, C8 and C12 This filter has a cut-off frequency of approximately 30kHz at a rate of 12dB/octave _ This helps prevent excessively high frequency components from being passed by the system _ Cl3 couples the signal to the actively balanced power output stage of the preamplifier section 22 with Q2 and Q3 form one half of the output stage and operate in an inverting mode_ 23 with Q4 and Q5 forms the other half of the output stage and operate ina non-inverting mode. The actively balanced preamplifier output appears at pins 4 and D of the module edge connector The signal level at this point is nominally ~ lodBm and operates into the main mixer channel attenuator (normally a balanced P & G 1550 slide attenuator) The mixer attenuator output operates at pins 8 and J of the channel amplifier edge connector which is the booster amplifier input (dwg _ Bl82-02-001) 2101 is connected ina configuration known as a differential cross coupled pair_ This circuit provides an actively balanced input and output with excellent longitudinal balance_ The outputs of 2101 appearing at pins 1 and 13 have their power output capability increased by the power output transistor Q101 to Q104. The balanced output signal is coupled through Clio, C1ll Llol and L102; appearing at the module edge connector pins 5 and S _ The booster amplifier output also feeds: a) the foldback level control R238 _ The output Of which passes through the foldback select switch Sw6 _ C44= C45 and summing resistors R232 and R233; appearing at pins 10 and Lab) Channel \"ON ' I1 switch SW4 _ with its output appearing at pins 16 and T_ c) the post position of Reverb Send Select Switch SW2 _ The preposition of Reverb Send Switch Sw2 and the input of the CUE/ Solo Switch appear at pins 7 and H of the edge connector This point is brought out separately and normally jumpered to the preamplifier output at pins 4 and D_ In the instance when an equalizer and or insert jacks are connected at the preamplifier output; then pins 7 and H would be connected at the output of the equalizer and or insert jacks. Reverb Send Switch SW2 besides providing pre-post fade selection, in addition makes selection of either Rev 1 or Rev 2 send buss These two busses appear at pins 11 and M, and 12 and N of the module connector_ (Optionally the buss selection maybe increased to 4) R219 is the Reverb Send Level controlTheoutput from the Cue/Solo select switch SW3 appears at pins 9 and K= A dc control circuit is provided with SW3 to operate an external solo relay when required_ In addition_ the Channel ON switch SW4 has additional contact closures for operating an announce turret selection ana remote control system The 48 volt supply voltage appearing at pin 22 of the module connector is decoupled through the active decoupler Q11 and Q12 to 36V Q10 senses the channel amplifier supply current by sampling the voltage developed across R49 and R50 _ Should it become excessive (greater than 100 ma) Q10 conducts reducing the drive to the base of Q12 and thereby limiting the power dissipation in the channel amplifier to a safe level_ The power supply common appears at pin V and chassis at pins 19 and W. M44lM"
+   ]
+  },
+  {
+   "heading": "AMPLIFIER",
+   "paragraphs": [
+    "DC Voltage Chart:",
+    "The following DC voltages are typical and may vary +108. The idle current should be between 48 ma and 52 ma with a supply voltage of 48Vdc _ The vol meter used for the following measurements should have a sensitivity of 20,000 ohms per volt or greater. Integrated_ Circuits:",
+    "Pins",
+    "8 9",
+    "12.5 24.5 22 22"
+   ]
+  },
+  {
+   "heading": "12.5 12.5 T",
+   "paragraphs": [
+    "12.5 12.5 22 22 24.5 13",
+    "18 36",
+    "2101",
+    "Transistors:"
+   ]
+  },
+  {
+   "heading": "COLLECTOR",
+   "paragraphs": [
+    "Q1 Q2 Q3 Q4 Q5 Q10 Q11 Q12 Q101 Q102 Q103 Q104 12.75 13.25 18.5 26 36 18 18 18",
+    "18.5",
+    "18 36",
+    "36.5",
+    "47.5",
+    "36.5 47.5 18 18 18.5",
+    "17.5 18.75 17.5",
+    "WB8 044im SENS 5 60 50 8 40 4 3 20 Aic OFF Vn6 REVERE",
+    "SwiB"
+   ]
+  },
+  {
+   "heading": "T / WB: 60-9",
+   "paragraphs": [
+    "SwIc"
+   ]
+  },
+  {
+   "heading": "JWIA",
+   "paragraphs": [
+    "EWZA Sw2c",
+    "SWQD sWZB OFF Pst"
+   ]
+  },
+  {
+   "heading": "PCB 182",
+   "paragraphs": [
+    "R23e-~"
+   ]
+  },
+  {
+   "heading": "W 4",
+   "paragraphs": [
+    "Ch ON"
+   ]
+  },
+  {
+   "heading": "SIDE COVER REMG VED",
+   "paragraphs": [
+    "USED Om MATL.",
+    "WPS Mlaan-ReCv 50, 8 Ho 4 30 = 20 Aic OFF Vn6 RFVE RE"
+   ]
+  },
+  {
+   "heading": "T / WB: 60-9",
+   "paragraphs": [
+    "SwIc"
+   ]
+  },
+  {
+   "heading": "3WIA",
+   "paragraphs": [
+    "AVc4 Pci8ZL 0 [B3B} {5]Y {z} [e {Z {Rea {Z",
+    "DJ {Bz} paZ 84J"
+   ]
+  },
+  {
+   "heading": "{BPF ~ {34 03",
+   "paragraphs": [
+    "TiVi",
+    "Sw IC"
+   ]
+  },
+  {
+   "heading": "D 8 049",
+   "paragraphs": [
+    "04} @Z {Q2 {22 {Fvs Ll Ti-6i ] Ti-RO"
+   ]
+  },
+  {
+   "heading": "{BLB? {3 {3",
+   "paragraphs": [
+    "B4 BxD}",
+    "Cs+3 {B} ] 8 Zi Nb 2",
+    "WL ? Ei4",
+    "Sw 3 CLE switcht_ 5 3 Wire Link Sw 3 CUE SwITCh R,s Rs 4",
+    "2.220 cwi 4",
+    "Cs 3 274 Zip Nb 4 Low 3",
+    "CLE SW switch(Wire Link SW 3 CUE SwiTch Rs.8 RS 4"
+   ]
+  },
+  {
+   "heading": "2 C",
+   "paragraphs": [
+    "Sw 4",
+    "7ife"
+   ]
+  }
+ ]
+}
