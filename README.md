@@ -4,13 +4,12 @@ Ward-Beck Systems M441M, 1973|6. Wiki page: [M441M on WBSps.ca](https://wardbeck
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 24 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 115 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 12 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 23 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 5 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 114 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 11 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 58 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -164,8 +163,6 @@ _Photographs of the module itself: front, back, inside, racked._
 
 Shared privately on Google Drive (opens after sign-in): [1973|6 · wbsps - promo - m441m pre-amp - back_small](https://drive.google.com/file/d/0B0yR0b5T78SKQ0J3UzVNNmpBQ28/view?resourcekey=0-P2IKppNGrp2xsFBv4aX0Ag)
 
-Not on Google Drive yet: `472px-Wbsps_-_module_-_m441m_pre-amp_-_back.jpg`
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
@@ -173,6 +170,14 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWGVVcDlGbEgxdmc/view?resourcekey=0-qO5fV-ZLgXpPc9-Hso2--Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWGVVcDlGbEgxdmc&resourcekey=0-qO5fV-ZLgXpPc9-Hso2--Q" width="240" alt="1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS (2).jpg"></a><br><sub>1973|6 · 441-04-013 - WAAD-BECK BYSTEMS (2) · <a href="MECHANICAL/1973%20-%20M441M%20-%20441-04-013%20-%20WAAD-BECK%20BYSTEMS%20(2)%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKUGxWY3RSSHVmNVE/view?resourcekey=0-lb3xf5Jt0SbTs_N1te1CqQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKUGxWY3RSSHVmNVE&resourcekey=0-lb3xf5Jt0SbTs_N1te1CqQ" width="240" alt="1973 - M441M - 441-04-013 - WAAD-BECK BYSTEMS.jpg"></a><br><sub>1973|6 · 441-04-013 - WAAD-BECK BYSTEMS · <a href="MECHANICAL/1973%20-%20M441M%20-%20441-04-013%20-%20WAAD-BECK%20BYSTEMS%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1s_gJh-sdlbwlqp8WYUcReTfrBHAkmi1c/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1s_gJh-sdlbwlqp8WYUcReTfrBHAkmi1c" width="240" alt="1973 - M441M - DOC - 441-03-010 - MOD ICKD USED.png"></a><br><sub>1973|6 · DOC - 441-03-010 - MOD ICKD USED · <a href="MECHANICAL/1973%20-%20M441M%20-%20DOC%20-%20441-03-010%20-%20MOD%20ICKD%20USED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
+
+## 3-D model
+
+[`MECHANICAL/M441M.stl`](MECHANICAL/M441M.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M441M)
+
+- **Size:** 48.15 × 131.7 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 2 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M441M - front panel.svg`)
+- Made by `tools/module_models.py` (→ `MECHANICAL/M441M.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
@@ -187,8 +192,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
-
-Not on Google Drive yet: `M441M - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -231,8 +234,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbk5OaFlJcG9aUEk/view?resourcekey=0-Ag-w6063GzKls-KPyTtp6A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbk5OaFlJcG9aUEk&resourcekey=0-Ag-w6063GzKls-KPyTtp6A" width="240" alt="1973 - M441M - wbsps - promo - m441m pre-amp - back.jpg"></a><br><sub>1973|6 · wbsps - promo - m441m pre-amp - back</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B9I0nu1MPkm6Z2lLNEZYQ3ZoUDQ/view?resourcekey=0-5DX4cvFxAiR-D4EmHB4zQg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B9I0nu1MPkm6Z2lLNEZYQ3ZoUDQ&resourcekey=0-5DX4cvFxAiR-D4EmHB4zQg" width="240" alt="1975 - M441M - PRICE LIST - PRICE LIST.jpg"></a><br><sub>1975|8 · PRICE LIST - PRICE LIST</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M441M - Buffalo New York.jpg`, `19xx - M441M - M 441M Channel Amplifier Instruction Manual.jpg`, `19xx - M441M - M441M.jpg`, `m441m-docs-10.gif`, `m441m-docs-8.gif`, `wbsps - module - m441m pre-amp - back.jpg`, `wbsps - promo - m441m pre-amp - 002.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -245,7 +246,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1973 - M441M - Channel Amplifier p5.kicad_sch](KICAD/1973%20-%20M441M%20-%20Channel%20Amplifier%20p5.kicad_sch)
 - [1973 - M441M - schematic3_assembled.kicad_sch](KICAD/1973%20-%20M441M%20-%20schematic3_assembled.kicad_sch)
 - [M441M.kicad_sym](KICAD/M441M.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
