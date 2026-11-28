@@ -1,5 +1,5 @@
 # 1973 - M441M - B 182-06-001 - PC182 - COMPONENT LAYOUT.gif
-Wiki page: [M441M](../../../../PAGES/M441M.md)
+Wiki page: [M441M](../)
 
 
 - **Year:** 1973 (module estimate (labelled))

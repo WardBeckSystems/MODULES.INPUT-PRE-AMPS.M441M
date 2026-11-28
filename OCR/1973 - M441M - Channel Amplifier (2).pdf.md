@@ -1,5 +1,5 @@
 # 1973 - M441M - Channel Amplifier (2).pdf
-Wiki page: [M441M](../../../../PAGES/M441M.md)
+Wiki page: [M441M](../)
 
 
 - **Year:** 1973 (found in this file: "DATE APR 73")

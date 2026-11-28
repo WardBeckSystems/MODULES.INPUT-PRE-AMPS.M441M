@@ -1,5 +1,5 @@
 # wbsps - promo - m441m pre-amp - 002.jpg
-Wiki page: [M441M](../../../../PAGES/M441M.md)
+Wiki page: [M441M](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,5 +1,5 @@
 # 1973 - M441M - wbsps - promo - m441m pre-amp - back.jpg
-Wiki page: [M441M](../../../../PAGES/M441M.md)
+Wiki page: [M441M](../)
 
 
 - **Year:** 1973 (module estimate (labelled))

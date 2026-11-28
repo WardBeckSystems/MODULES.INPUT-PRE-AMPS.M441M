@@ -1,5 +1,5 @@
 # 1973 - M441M - schematic3_assembled.jpg
-Wiki page: [M441M](../../../../PAGES/M441M.md)
+Wiki page: [M441M](../)
 
 
 - **Year:** 1973 (module estimate (labelled))

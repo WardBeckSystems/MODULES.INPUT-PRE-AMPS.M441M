@@ -1,5 +1,5 @@
 # 472px-Wbsps_-_module_-_m441m_pre-amp_-_back.jpg
-Wiki page: [M441M](../../../../PAGES/M441M.md)
+Wiki page: [M441M](../)
 
 
 - **Year:** unknown (title block (read by eye))

@@ -1,6 +1,6 @@
 # M441M Channel Amplifier · Input Pre Amps
 
-Ward-Beck Systems M441M, 1973|6. Wiki page: [M441M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M441M.html)
+Ward-Beck Systems M441M, 1973|6. Wiki page: [M441M on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M441M-Channel-Amplifier/)
 
 | Folder | What is in it | Files |
 |---|---|---|
